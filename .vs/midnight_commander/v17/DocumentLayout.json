@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\frantisek\\Documents\\GitHub\\midnight_commander\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4D6B0B-30E4-43FE-AD1B-48EC5A44D733}|midnight_commander\\midnight_commander.csproj|c:\\users\\frantisek\\documents\\github\\midnight_commander\\midnight_commander\\popupwindows\\popuptypes\\choosedrive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4D6B0B-30E4-43FE-AD1B-48EC5A44D733}|midnight_commander\\midnight_commander.csproj|solutionrelative:midnight_commander\\popupwindows\\popuptypes\\choosedrive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4D6B0B-30E4-43FE-AD1B-48EC5A44D733}|midnight_commander\\midnight_commander.csproj|c:\\users\\frantisek\\documents\\github\\midnight_commander\\midnight_commander\\popupwindows\\popuptypes\\mkdir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4D6B0B-30E4-43FE-AD1B-48EC5A44D733}|midnight_commander\\midnight_commander.csproj|solutionrelative:midnight_commander\\popupwindows\\popuptypes\\mkdir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4D6B0B-30E4-43FE-AD1B-48EC5A44D733}|midnight_commander\\midnight_commander.csproj|c:\\users\\frantisek\\documents\\github\\midnight_commander\\midnight_commander\\popupwindows\\popuptypes\\editor_quitsave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4D6B0B-30E4-43FE-AD1B-48EC5A44D733}|midnight_commander\\midnight_commander.csproj|solutionrelative:midnight_commander\\popupwindows\\popuptypes\\editor_quitsave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4D6B0B-30E4-43FE-AD1B-48EC5A44D733}|midnight_commander\\midnight_commander.csproj|c:\\users\\frantisek\\documents\\github\\midnight_commander\\midnight_commander\\popupwindows\\componentmanagement\\iselectablecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4D6B0B-30E4-43FE-AD1B-48EC5A44D733}|midnight_commander\\midnight_commander.csproj|solutionrelative:midnight_commander\\popupwindows\\componentmanagement\\iselectablecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4D6B0B-30E4-43FE-AD1B-48EC5A44D733}|midnight_commander\\midnight_commander.csproj|c:\\users\\frantisek\\documents\\github\\midnight_commander\\midnight_commander\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4D6B0B-30E4-43FE-AD1B-48EC5A44D733}|midnight_commander\\midnight_commander.csproj|solutionrelative:midnight_commander\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4D6B0B-30E4-43FE-AD1B-48EC5A44D733}|midnight_commander\\midnight_commander.csproj|c:\\users\\frantisek\\documents\\github\\midnight_commander\\midnight_commander\\tableswin\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4D6B0B-30E4-43FE-AD1B-48EC5A44D733}|midnight_commander\\midnight_commander.csproj|solutionrelative:midnight_commander\\tableswin\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4D6B0B-30E4-43FE-AD1B-48EC5A44D733}|midnight_commander\\midnight_commander.csproj|c:\\users\\frantisek\\documents\\github\\midnight_commander\\midnight_commander\\scale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4D6B0B-30E4-43FE-AD1B-48EC5A44D733}|midnight_commander\\midnight_commander.csproj|solutionrelative:midnight_commander\\scale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4D6B0B-30E4-43FE-AD1B-48EC5A44D733}|midnight_commander\\midnight_commander.csproj|c:\\users\\frantisek\\documents\\github\\midnight_commander\\midnight_commander\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4D6B0B-30E4-43FE-AD1B-48EC5A44D733}|midnight_commander\\midnight_commander.csproj|solutionrelative:midnight_commander\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChooseDrive.cs",
+              "DocumentMoniker": "C:\\Users\\frantisek\\Documents\\GitHub\\midnight_commander\\midnight_commander\\PopUpWindows\\PopUpTypes\\ChooseDrive.cs",
+              "RelativeDocumentMoniker": "midnight_commander\\PopUpWindows\\PopUpTypes\\ChooseDrive.cs",
+              "ToolTip": "C:\\Users\\frantisek\\Documents\\GitHub\\midnight_commander\\midnight_commander\\PopUpWindows\\PopUpTypes\\ChooseDrive.cs",
+              "RelativeToolTip": "midnight_commander\\PopUpWindows\\PopUpTypes\\ChooseDrive.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:24:07.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MkDir.cs",
+              "DocumentMoniker": "C:\\Users\\frantisek\\Documents\\GitHub\\midnight_commander\\midnight_commander\\PopUpWindows\\PopUpTypes\\MkDir.cs",
+              "RelativeDocumentMoniker": "midnight_commander\\PopUpWindows\\PopUpTypes\\MkDir.cs",
+              "ToolTip": "C:\\Users\\frantisek\\Documents\\GitHub\\midnight_commander\\midnight_commander\\PopUpWindows\\PopUpTypes\\MkDir.cs",
+              "RelativeToolTip": "midnight_commander\\PopUpWindows\\PopUpTypes\\MkDir.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:24:05.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Editor_QuitSave.cs",
+              "DocumentMoniker": "C:\\Users\\frantisek\\Documents\\GitHub\\midnight_commander\\midnight_commander\\PopUpWindows\\PopUpTypes\\Editor_QuitSave.cs",
+              "RelativeDocumentMoniker": "midnight_commander\\PopUpWindows\\PopUpTypes\\Editor_QuitSave.cs",
+              "ToolTip": "C:\\Users\\frantisek\\Documents\\GitHub\\midnight_commander\\midnight_commander\\PopUpWindows\\PopUpTypes\\Editor_QuitSave.cs",
+              "RelativeToolTip": "midnight_commander\\PopUpWindows\\PopUpTypes\\Editor_QuitSave.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:24:03.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "iSelectableComponent.cs",
+              "DocumentMoniker": "C:\\Users\\frantisek\\Documents\\GitHub\\midnight_commander\\midnight_commander\\PopUpWindows\\ComponentManagement\\iSelectableComponent.cs",
+              "RelativeDocumentMoniker": "midnight_commander\\PopUpWindows\\ComponentManagement\\iSelectableComponent.cs",
+              "ToolTip": "C:\\Users\\frantisek\\Documents\\GitHub\\midnight_commander\\midnight_commander\\PopUpWindows\\ComponentManagement\\iSelectableComponent.cs",
+              "RelativeToolTip": "midnight_commander\\PopUpWindows\\ComponentManagement\\iSelectableComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:24:01.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\frantisek\\Documents\\GitHub\\midnight_commander\\midnight_commander\\TablesWin\\Table.cs",
+              "RelativeDocumentMoniker": "midnight_commander\\TablesWin\\Table.cs",
+              "ToolTip": "C:\\Users\\frantisek\\Documents\\GitHub\\midnight_commander\\midnight_commander\\TablesWin\\Table.cs",
+              "RelativeToolTip": "midnight_commander\\TablesWin\\Table.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:17:38.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\frantisek\\Documents\\GitHub\\midnight_commander\\midnight_commander\\Application.cs",
+              "RelativeDocumentMoniker": "midnight_commander\\Application.cs",
+              "ToolTip": "C:\\Users\\frantisek\\Documents\\GitHub\\midnight_commander\\midnight_commander\\Application.cs",
+              "RelativeToolTip": "midnight_commander\\Application.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwBMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:17:23.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Scale.cs",
+              "DocumentMoniker": "C:\\Users\\frantisek\\Documents\\GitHub\\midnight_commander\\midnight_commander\\Scale.cs",
+              "RelativeDocumentMoniker": "midnight_commander\\Scale.cs",
+              "ToolTip": "C:\\Users\\frantisek\\Documents\\GitHub\\midnight_commander\\midnight_commander\\Scale.cs",
+              "RelativeToolTip": "midnight_commander\\Scale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:09:15.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\frantisek\\Documents\\GitHub\\midnight_commander\\midnight_commander\\Program.cs",
+              "RelativeDocumentMoniker": "midnight_commander\\Program.cs",
+              "ToolTip": "C:\\Users\\frantisek\\Documents\\GitHub\\midnight_commander\\midnight_commander\\Program.cs",
+              "RelativeToolTip": "midnight_commander\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:08:06.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

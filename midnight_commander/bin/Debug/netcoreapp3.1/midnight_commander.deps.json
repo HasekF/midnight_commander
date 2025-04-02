@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "midnight_commander/1.0.0": {
+        "runtime": {
+          "midnight_commander.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "midnight_commander/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

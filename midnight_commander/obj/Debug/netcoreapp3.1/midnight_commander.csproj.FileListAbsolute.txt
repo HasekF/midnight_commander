@@ -1,0 +1,191 @@
+C:\Users\František\source\repos\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.exe
+C:\Users\František\source\repos\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.deps.json
+C:\Users\František\source\repos\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.runtimeconfig.json
+C:\Users\František\source\repos\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.runtimeconfig.dev.json
+C:\Users\František\source\repos\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.dll
+C:\Users\František\source\repos\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.pdb
+C:\Users\František\source\repos\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.csprojAssemblyReference.cache
+C:\Users\František\source\repos\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.AssemblyInfoInputs.cache
+C:\Users\František\source\repos\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.AssemblyInfo.cs
+C:\Users\František\source\repos\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.csproj.CoreCompileInputs.cache
+C:\Users\František\source\repos\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.dll
+C:\Users\František\source\repos\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.pdb
+C:\Users\František\source\repos\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.genruntimeconfig.cache
+C:\Users\frantisek\source\repos\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.exe
+C:\Users\frantisek\source\repos\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.deps.json
+C:\Users\frantisek\source\repos\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.runtimeconfig.json
+C:\Users\frantisek\source\repos\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.runtimeconfig.dev.json
+C:\Users\frantisek\source\repos\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.dll
+C:\Users\frantisek\source\repos\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.pdb
+C:\Users\frantisek\source\repos\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.csproj.AssemblyReference.cache
+C:\Users\frantisek\source\repos\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frantisek\source\repos\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.AssemblyInfoInputs.cache
+C:\Users\frantisek\source\repos\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.AssemblyInfo.cs
+C:\Users\frantisek\source\repos\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.csproj.CoreCompileInputs.cache
+C:\Users\frantisek\source\repos\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.dll
+C:\Users\frantisek\source\repos\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.pdb
+C:\Users\frantisek\source\repos\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.genruntimeconfig.cache
+C:\Users\hasekfrantisek\Desktop\midnight_commander\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.exe
+C:\Users\hasekfrantisek\Desktop\midnight_commander\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.deps.json
+C:\Users\hasekfrantisek\Desktop\midnight_commander\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.runtimeconfig.json
+C:\Users\hasekfrantisek\Desktop\midnight_commander\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.runtimeconfig.dev.json
+C:\Users\hasekfrantisek\Desktop\midnight_commander\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.dll
+C:\Users\hasekfrantisek\Desktop\midnight_commander\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.pdb
+C:\Users\hasekfrantisek\Desktop\midnight_commander\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.csproj.AssemblyReference.cache
+C:\Users\hasekfrantisek\Desktop\midnight_commander\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasekfrantisek\Desktop\midnight_commander\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.AssemblyInfoInputs.cache
+C:\Users\hasekfrantisek\Desktop\midnight_commander\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.AssemblyInfo.cs
+C:\Users\hasekfrantisek\Desktop\midnight_commander\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.csproj.CoreCompileInputs.cache
+C:\Users\hasekfrantisek\Desktop\midnight_commander\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.dll
+C:\Users\hasekfrantisek\Desktop\midnight_commander\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.pdb
+C:\Users\hasekfrantisek\Desktop\midnight_commander\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.genruntimeconfig.cache
+C:\Users\František\Desktop\midnight_commander2\midnight_commander\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.exe
+C:\Users\František\Desktop\midnight_commander2\midnight_commander\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.deps.json
+C:\Users\František\Desktop\midnight_commander2\midnight_commander\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.runtimeconfig.json
+C:\Users\František\Desktop\midnight_commander2\midnight_commander\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.runtimeconfig.dev.json
+C:\Users\František\Desktop\midnight_commander2\midnight_commander\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.dll
+C:\Users\František\Desktop\midnight_commander2\midnight_commander\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.pdb
+C:\Users\František\Desktop\midnight_commander2\midnight_commander\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.csprojAssemblyReference.cache
+C:\Users\František\Desktop\midnight_commander2\midnight_commander\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.AssemblyInfoInputs.cache
+C:\Users\František\Desktop\midnight_commander2\midnight_commander\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.AssemblyInfo.cs
+C:\Users\František\Desktop\midnight_commander2\midnight_commander\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.csproj.CoreCompileInputs.cache
+C:\Users\František\Desktop\midnight_commander2\midnight_commander\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.dll
+C:\Users\František\Desktop\midnight_commander2\midnight_commander\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.pdb
+C:\Users\František\Desktop\midnight_commander2\midnight_commander\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.genruntimeconfig.cache
+C:\Users\František\Desktop\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.exe
+C:\Users\František\Desktop\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.deps.json
+C:\Users\František\Desktop\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.runtimeconfig.json
+C:\Users\František\Desktop\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.runtimeconfig.dev.json
+C:\Users\František\Desktop\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.dll
+C:\Users\František\Desktop\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.pdb
+C:\Users\František\Desktop\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.csprojAssemblyReference.cache
+C:\Users\František\Desktop\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.AssemblyInfoInputs.cache
+C:\Users\František\Desktop\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.AssemblyInfo.cs
+C:\Users\František\Desktop\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.csproj.CoreCompileInputs.cache
+C:\Users\František\Desktop\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.dll
+C:\Users\František\Desktop\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.pdb
+C:\Users\František\Desktop\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.genruntimeconfig.cache
+C:\Users\hasekfrantisek\Desktop\midnight_commander_Check1\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.exe
+C:\Users\hasekfrantisek\Desktop\midnight_commander_Check1\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.deps.json
+C:\Users\hasekfrantisek\Desktop\midnight_commander_Check1\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.runtimeconfig.json
+C:\Users\hasekfrantisek\Desktop\midnight_commander_Check1\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.runtimeconfig.dev.json
+C:\Users\hasekfrantisek\Desktop\midnight_commander_Check1\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.dll
+C:\Users\hasekfrantisek\Desktop\midnight_commander_Check1\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.pdb
+C:\Users\hasekfrantisek\Desktop\midnight_commander_Check1\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.csproj.AssemblyReference.cache
+C:\Users\hasekfrantisek\Desktop\midnight_commander_Check1\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasekfrantisek\Desktop\midnight_commander_Check1\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.AssemblyInfoInputs.cache
+C:\Users\hasekfrantisek\Desktop\midnight_commander_Check1\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.AssemblyInfo.cs
+C:\Users\hasekfrantisek\Desktop\midnight_commander_Check1\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.csproj.CoreCompileInputs.cache
+C:\Users\hasekfrantisek\Desktop\midnight_commander_Check1\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.dll
+C:\Users\hasekfrantisek\Desktop\midnight_commander_Check1\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.pdb
+C:\Users\hasekfrantisek\Desktop\midnight_commander_Check1\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.genruntimeconfig.cache
+C:\Users\hasekfrantisek\Desktop\del\midnight_commander_Check1\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.exe
+C:\Users\hasekfrantisek\Desktop\del\midnight_commander_Check1\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.deps.json
+C:\Users\hasekfrantisek\Desktop\del\midnight_commander_Check1\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.runtimeconfig.json
+C:\Users\hasekfrantisek\Desktop\del\midnight_commander_Check1\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.runtimeconfig.dev.json
+C:\Users\hasekfrantisek\Desktop\del\midnight_commander_Check1\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.dll
+C:\Users\hasekfrantisek\Desktop\del\midnight_commander_Check1\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.pdb
+C:\Users\hasekfrantisek\Desktop\del\midnight_commander_Check1\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.csproj.AssemblyReference.cache
+C:\Users\hasekfrantisek\Desktop\del\midnight_commander_Check1\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasekfrantisek\Desktop\del\midnight_commander_Check1\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.AssemblyInfoInputs.cache
+C:\Users\hasekfrantisek\Desktop\del\midnight_commander_Check1\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.AssemblyInfo.cs
+C:\Users\hasekfrantisek\Desktop\del\midnight_commander_Check1\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.csproj.CoreCompileInputs.cache
+C:\Users\hasekfrantisek\Desktop\del\midnight_commander_Check1\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.dll
+C:\Users\hasekfrantisek\Desktop\del\midnight_commander_Check1\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.pdb
+C:\Users\hasekfrantisek\Desktop\del\midnight_commander_Check1\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.genruntimeconfig.cache
+C:\Users\frantisek\Desktop\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.exe
+C:\Users\frantisek\Desktop\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.deps.json
+C:\Users\frantisek\Desktop\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.runtimeconfig.json
+C:\Users\frantisek\Desktop\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.runtimeconfig.dev.json
+C:\Users\frantisek\Desktop\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.dll
+C:\Users\frantisek\Desktop\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.pdb
+C:\Users\frantisek\Desktop\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.csproj.AssemblyReference.cache
+C:\Users\frantisek\Desktop\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frantisek\Desktop\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.AssemblyInfoInputs.cache
+C:\Users\frantisek\Desktop\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.AssemblyInfo.cs
+C:\Users\frantisek\Desktop\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.csproj.CoreCompileInputs.cache
+C:\Users\frantisek\Desktop\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.dll
+C:\Users\frantisek\Desktop\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.pdb
+C:\Users\frantisek\Desktop\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.genruntimeconfig.cache
+C:\Users\František\Desktop\midnight_commander_5\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.exe
+C:\Users\František\Desktop\midnight_commander_5\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.deps.json
+C:\Users\František\Desktop\midnight_commander_5\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.runtimeconfig.json
+C:\Users\František\Desktop\midnight_commander_5\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.runtimeconfig.dev.json
+C:\Users\František\Desktop\midnight_commander_5\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.dll
+C:\Users\František\Desktop\midnight_commander_5\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.pdb
+C:\Users\František\Desktop\midnight_commander_5\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.csprojAssemblyReference.cache
+C:\Users\František\Desktop\midnight_commander_5\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.AssemblyInfoInputs.cache
+C:\Users\František\Desktop\midnight_commander_5\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.AssemblyInfo.cs
+C:\Users\František\Desktop\midnight_commander_5\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.csproj.CoreCompileInputs.cache
+C:\Users\František\Desktop\midnight_commander_5\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.dll
+C:\Users\František\Desktop\midnight_commander_5\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.pdb
+C:\Users\František\Desktop\midnight_commander_5\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.genruntimeconfig.cache
+C:\Users\hasekfrantisek\Desktop\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.exe
+C:\Users\hasekfrantisek\Desktop\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.deps.json
+C:\Users\hasekfrantisek\Desktop\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.runtimeconfig.json
+C:\Users\hasekfrantisek\Desktop\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.runtimeconfig.dev.json
+C:\Users\hasekfrantisek\Desktop\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.dll
+C:\Users\hasekfrantisek\Desktop\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.pdb
+C:\Users\hasekfrantisek\Desktop\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.csproj.AssemblyReference.cache
+C:\Users\hasekfrantisek\Desktop\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasekfrantisek\Desktop\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.AssemblyInfoInputs.cache
+C:\Users\hasekfrantisek\Desktop\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.AssemblyInfo.cs
+C:\Users\hasekfrantisek\Desktop\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.csproj.CoreCompileInputs.cache
+C:\Users\hasekfrantisek\Desktop\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.dll
+C:\Users\hasekfrantisek\Desktop\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.pdb
+C:\Users\hasekfrantisek\Desktop\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.genruntimeconfig.cache
+X:\.aktulní prg\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.exe
+X:\.aktulní prg\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.deps.json
+X:\.aktulní prg\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.runtimeconfig.json
+X:\.aktulní prg\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.runtimeconfig.dev.json
+X:\.aktulní prg\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.dll
+X:\.aktulní prg\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.pdb
+X:\.aktulní prg\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.csproj.AssemblyReference.cache
+X:\.aktulní prg\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.GeneratedMSBuildEditorConfig.editorconfig
+X:\.aktulní prg\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.AssemblyInfoInputs.cache
+X:\.aktulní prg\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.AssemblyInfo.cs
+X:\.aktulní prg\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.csproj.CoreCompileInputs.cache
+X:\.aktulní prg\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.dll
+X:\.aktulní prg\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.pdb
+X:\.aktulní prg\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.genruntimeconfig.cache
+C:\Users\hasekfrantisek\Downloads\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.exe
+C:\Users\hasekfrantisek\Downloads\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.deps.json
+C:\Users\hasekfrantisek\Downloads\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.runtimeconfig.json
+C:\Users\hasekfrantisek\Downloads\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.runtimeconfig.dev.json
+C:\Users\hasekfrantisek\Downloads\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.dll
+C:\Users\hasekfrantisek\Downloads\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.pdb
+C:\Users\hasekfrantisek\Downloads\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.csproj.AssemblyReference.cache
+C:\Users\hasekfrantisek\Downloads\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasekfrantisek\Downloads\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.AssemblyInfoInputs.cache
+C:\Users\hasekfrantisek\Downloads\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.AssemblyInfo.cs
+C:\Users\hasekfrantisek\Downloads\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.csproj.CoreCompileInputs.cache
+C:\Users\hasekfrantisek\Downloads\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.dll
+C:\Users\hasekfrantisek\Downloads\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.pdb
+C:\Users\hasekfrantisek\Downloads\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.genruntimeconfig.cache
+C:\Users\František\Desktop\mc del\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.exe
+C:\Users\František\Desktop\mc del\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.deps.json
+C:\Users\František\Desktop\mc del\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.runtimeconfig.json
+C:\Users\František\Desktop\mc del\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.runtimeconfig.dev.json
+C:\Users\František\Desktop\mc del\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.dll
+C:\Users\František\Desktop\mc del\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.pdb
+C:\Users\František\Desktop\mc del\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.csprojAssemblyReference.cache
+C:\Users\František\Desktop\mc del\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.AssemblyInfoInputs.cache
+C:\Users\František\Desktop\mc del\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.AssemblyInfo.cs
+C:\Users\František\Desktop\mc del\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.csproj.CoreCompileInputs.cache
+C:\Users\František\Desktop\mc del\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.dll
+C:\Users\František\Desktop\mc del\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.pdb
+C:\Users\František\Desktop\mc del\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.genruntimeconfig.cache
+C:\Users\frantisek\Documents\GitHub\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.exe
+C:\Users\frantisek\Documents\GitHub\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.deps.json
+C:\Users\frantisek\Documents\GitHub\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.runtimeconfig.json
+C:\Users\frantisek\Documents\GitHub\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.runtimeconfig.dev.json
+C:\Users\frantisek\Documents\GitHub\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.dll
+C:\Users\frantisek\Documents\GitHub\midnight_commander\midnight_commander\bin\Debug\netcoreapp3.1\midnight_commander.pdb
+C:\Users\frantisek\Documents\GitHub\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.csproj.AssemblyReference.cache
+C:\Users\frantisek\Documents\GitHub\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frantisek\Documents\GitHub\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.AssemblyInfoInputs.cache
+C:\Users\frantisek\Documents\GitHub\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.AssemblyInfo.cs
+C:\Users\frantisek\Documents\GitHub\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.csproj.CoreCompileInputs.cache
+C:\Users\frantisek\Documents\GitHub\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.dll
+C:\Users\frantisek\Documents\GitHub\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.pdb
+C:\Users\frantisek\Documents\GitHub\midnight_commander\midnight_commander\obj\Debug\netcoreapp3.1\midnight_commander.genruntimeconfig.cache
